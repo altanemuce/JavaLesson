@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		int number1 = 24;
+		int number1 = 240;
 		int number2 = 29;
 		int number3 = 123;
 		int enBuyuk = number1;
